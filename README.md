@@ -4,6 +4,8 @@
 
 某个游戏的自动快速投降脚本，非进程注入的纯视觉实现
 
+![演示](https://github.com/user-attachments/assets/7962847e-bee2-42ec-a0ed-5cb68f9fcd47)
+
 ## 依赖项
 
 请确保已安装以下依赖：
